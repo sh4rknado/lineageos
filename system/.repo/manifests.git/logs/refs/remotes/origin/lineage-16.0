@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 56ca75d17207f4e81ced0ffb10387022afd6e47c Bertieaux Jordan <jordan.bertieaux@std.heh.be> 1590270507 +0200	fetch --quiet --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/lineage-17.1:refs/remotes/origin/lineage-17.1 +refs/tags/*:refs/tags/*: storing head
